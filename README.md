@@ -26,8 +26,6 @@ Operating System: Windows
 
 Packet Analyzer: Wireshark
 
-Network Adapter: Realtek PCIe FE Family Controller (if applicable)
-
 Topics Covered
 
 IP addresses and network communication
